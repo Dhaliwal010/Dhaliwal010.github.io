@@ -46,10 +46,9 @@ footer {
     text-align: center;
     font-size: 0.8em;
 }
-
 table{
     table, th, td {
         border: 1px solid black;
-        border-collapse: collapse;
+        border-collapse: collapse; 
       }
 }
